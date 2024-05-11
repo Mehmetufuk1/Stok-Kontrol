@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok.Control.Entities", "Stok.Control.Entities\Stok.Control.Entities.csproj", "{F8FFAEF8-BCA6-41DF-BD17-807ABAAED880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok.Control.Repositories", "Stok.Control.Repositories\Stok.Control.Repositories.csproj", "{4D92B73B-BB3B-4FC3-A0E2-6D12B0DAC7C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FFAEF8-BCA6-41DF-BD17-807ABAAED880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FFAEF8-BCA6-41DF-BD17-807ABAAED880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FFAEF8-BCA6-41DF-BD17-807ABAAED880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FFAEF8-BCA6-41DF-BD17-807ABAAED880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D92B73B-BB3B-4FC3-A0E2-6D12B0DAC7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D92B73B-BB3B-4FC3-A0E2-6D12B0DAC7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D92B73B-BB3B-4FC3-A0E2-6D12B0DAC7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D92B73B-BB3B-4FC3-A0E2-6D12B0DAC7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE95533-1F26-48CB-B4B6-BFC33431B691}
+	EndGlobalSection
+EndGlobal

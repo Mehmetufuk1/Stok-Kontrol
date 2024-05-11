@@ -1,0 +1,11 @@
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\bin\Debug\net6.0\Stok.Control.Entities.deps.json
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\bin\Debug\net6.0\Stok.Control.Entities.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\bin\Debug\net6.0\Stok.Control.Entities.pdb
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\refint\Stok.Control.Entities.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\Stok.Control.Entities.pdb
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Entities\obj\Debug\net6.0\ref\Stok.Control.Entities.dll

@@ -1,0 +1,17 @@
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Repositories.deps.json
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Repositories.runtimeconfig.json
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Repositories.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Repositories.pdb
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Entities.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\bin\Debug\net6.0\Stok.Control.Entities.pdb
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.csproj.AssemblyReference.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.AssemblyInfoInputs.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.AssemblyInfo.cs
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.csproj.CopyComplete
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\refint\Stok.Control.Repositories.dll
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.pdb
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\Stok.Control.Repositories.genruntimeconfig.cache
+C:\Users\Autocad\Desktop\Stok.Control\Stok.Control.Repositories\obj\Debug\net6.0\ref\Stok.Control.Repositories.dll
